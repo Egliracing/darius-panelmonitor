@@ -1,5 +1,6 @@
-# Version 1.2.1
+# Version 1.2.2
 
-Changes licensing and metadata before public publication. Replaces the unpublished
-MIT draft with the custom Personal Non-Commercial License. Application code is
-unchanged from tested 1.2.0; the 1.2.0 functional test report still applies.
+Relicenses this release under GNU GPL version 3 only (GPL-3.0-only), with the
+author's explicit approval. Updates metadata, copyright notices, source headers
+and distribution documentation. Functional behavior is unchanged from tested
+1.2.0; existing functional checks apply to the same application logic.

@@ -7,15 +7,14 @@ https://github.com/Egliracing/darius-panelmonitor
 
 Für den Upload sind vorbereitet:
 
-- Titel: **Darius Panelmonitor — CPU, RAM & Network**
-- Version: **1.2.1**
-- Lizenz: **Eigene persönliche, nichtkommerzielle Lizenz (siehe LICENSE)**
-  Store-Akzeptanz für diese Lizenz ist noch ungeklärt. Nicht MIT auswählen.
+- Titel: **Darius Panelmonitor**
+- Version: **1.2.2**
+- Lizenz: **GPLv3** (GPL-3.0-only)
 - Autor: **Darius Jakpor**
 - Zielkategorie: die aktuelle Kategorie für **Plasma 6 Applets/Widgets** wählen.
 - Beschreibung: `STORE-DESCRIPTION-EN.md`
-- Installationsdatei: `Darius-Panelmonitor-1.2.1.plasmoid`
-- Quellcode einschließlich Tests: `Darius-Panelmonitor-1.2.1-source.zip`
+- Installationsdatei: `Darius-Panelmonitor-1.2.2.plasmoid`
+- Quellcode einschließlich Tests: `Darius-Panelmonitor-1.2.2-source.zip`
 - Screenshots: `01-compact-live.png`, `02-two-row-live.png`, `03-settings.png`,
   `04-display-modes-live.png`, `05-adaptive-layouts-live.png`,
   `06-custom-style-live.png`

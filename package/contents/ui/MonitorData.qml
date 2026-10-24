@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Darius Jakpor
+// SPDX-License-Identifier: GPL-3.0-only
+
 import QtQml
 import org.kde.ksysguard.sensors as Sensors
 

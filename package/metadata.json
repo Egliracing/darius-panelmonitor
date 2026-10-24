@@ -5,8 +5,8 @@
     "Name": "Darius Panelmonitor",
     "Description": "CPU, memory and network rates at a glance — built for your Plasma panel",
     "Icon": "utilities-system-monitor",
-    "Version": "1.2.1",
-    "License": "LicenseRef-Darius-Personal-NonCommercial-1.0",
+    "Version": "1.2.2",
+    "License": "GPL-3.0-only",
     "Authors": [
       {
         "Name": "Darius Jakpor"

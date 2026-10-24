@@ -38,10 +38,10 @@ combinations can require a longer widget or a smaller font.
 
 ## Install
 
-Download the [installable package](dist/Darius-Panelmonitor-1.2.1.plasmoid) and run:
+Download the [installable package](dist/Darius-Panelmonitor-1.2.2.plasmoid) and run:
 
 ```bash
-kpackagetool6 --type Plasma/Applet --install Darius-Panelmonitor-1.2.1.plasmoid
+kpackagetool6 --type Plasma/Applet --install Darius-Panelmonitor-1.2.2.plasmoid
 ```
 
 For an existing installation, replace `--install` with `--upgrade`. Alternatively,
@@ -100,7 +100,7 @@ kpackagetool6 --type Plasma/Applet --remove de.darius.panelmonitor
 
 ## Development and testing
 
-`package/` contains the complete QML source, metadata and custom personal non-commercial license. The German
+`package/` contains the complete QML source, metadata and GPLv3 license. The German
 gettext source is in `translations/de.po`; the compiled catalog ships in the
 package. `tests/test-release.py` uses Python 3 and PyQt6 for live-sensor checks and
 screenshots, requiring a running KDE user session and NetworkManager.
@@ -115,12 +115,14 @@ See `store/TEST-REPORT.md` for the exact tested scope and limitations.
 
 ## License
 
-Custom personal non-commercial license — Copyright © 2026 Darius Jakpor. This is an independent widget, not an official
-KDE product. KDE, Plasma and Qt are projects and trademarks of their respective
-owners.
+Copyright (c) 2026 Darius Jakpor. Licensed under **GNU GPL version 3 only**
+(`GPL-3.0-only`). See [LICENSE](LICENSE) and [COPYRIGHT](COPYRIGHT).
 
-The code is publicly readable, but this is not an open-source license. Personal
-non-commercial use and private modification are allowed. Commercial use, sales
-and distribution of modified versions require separate written permission.
-Read LICENSE for the actual terms. Acceptance of these custom terms by KDE Store has not
-been established.
+You may use, modify and redistribute this software, including commercially,
+subject to GPLv3's requirements. When distributing covered modified versions,
+retain required notices, identify modifications and provide the corresponding
+source under GPLv3. The license does not grant rights to misrepresent authorship
+or imply endorsement. No warranty is provided to the extent permitted by law.
+
+This is an independent widget, not an official KDE product. KDE, Plasma and Qt
+are projects and trademarks of their respective owners.

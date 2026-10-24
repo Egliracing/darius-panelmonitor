@@ -1,4 +1,4 @@
-# Darius Panelmonitor — CPU, RAM & Network
+Darius Panelmonitor
 
 Keep an eye on your system without leaving your panel.
 
@@ -74,13 +74,14 @@ byte mode shows each direction’s unit separately. Selecting
 After installation, open Edit Mode → Add Widgets, find Darius Panelmonitor,
 and drag it into your panel. Right-click it to configure.
 
-Free for personal non-commercial use · Source available under custom terms · Version 1.2.1
+Free and open source · GNU GPLv3 · Version 1.2.2
 
 Screenshots show the actual widget and configuration components rendered with
 live KDE sensor data in a controlled preview. Panel backgrounds and headings are
 presentation elements; sensor numbers are not fabricated.
 
-License: personal non-commercial use and private modification are permitted.
-Commercial use, sales and distribution of modified versions require the author's
-separate written permission. Copyright notices must be retained. Read LICENSE
-for the full terms. This is source-available software, not OSI Open Source.
+License: GNU General Public License version 3 only (GPL-3.0-only). Use, modification
+and redistribution, including commercial redistribution, are allowed under GPLv3.
+Required copyright/license notices must remain, modifications must be identified,
+and recipients must receive access to the corresponding source under GPLv3.
+See the repository LICENSE for the full terms.

@@ -22,7 +22,7 @@ with ZipFile(release / source_name, 'w', ZIP_DEFLATED) as archive:
             if not file.is_file() or file.suffix in ['.zip', '.plasmoid'] or file.name == 'SHA256SUMS':
                 continue
             archive.write(file, Path(f'Darius-Panelmonitor-{version}') / file.relative_to(project))
-    for name in ['README.md', 'LICENSE', 'ANLEITUNG.md', 'installieren.sh']:
+    for name in ['README.md', 'LICENSE', 'COPYRIGHT', 'ANLEITUNG.md', 'installieren.sh']:
         archive.write(project / name, Path(f'Darius-Panelmonitor-{version}') / name)
 (release / 'SHA256SUMS').write_text(''.join(
     hashlib.sha256((release / name).read_bytes()).hexdigest() + '  ' + name + '\n'

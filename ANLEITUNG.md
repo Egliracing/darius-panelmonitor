@@ -1,4 +1,4 @@
-# Darius Panelmonitor 1.2.1
+# Darius Panelmonitor 1.2.2
 
 Die aktuelle englische Dokumentation steht in README.md. Deutsche Oberfläche ist
 enthalten. Die Netzwerküberschrift heißt international einheitlich **NET**.
@@ -16,3 +16,5 @@ eine bestehende Instanz nach Ab- und Anmelden neu laden.
 Die leere Netzwerkschnittstelle wählt jetzt automatisch einen verbundenen
 LAN-Anschluss, andernfalls WLAN. Ein Gerätename erzwingt eine feste Auswahl;
 all summiert alle Schnittstellen und kann Container-Verkehr mehrfach zählen.
+
+Aktuelle Lizenz: GPLv3 (GPL-3.0-only). Im Store GPLv3 auswählen.
