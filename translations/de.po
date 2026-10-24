@@ -1,0 +1,122 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: de\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "All logical CPUs (per-core bars)"
+msgstr "Alle logischen CPUs (einzelne Balken)"
+
+msgid "Always use one row (automatic in small panels)"
+msgstr "Immer einzeilig (bei niedriger Leiste automatisch)"
+
+msgid "Appearance and network"
+msgstr "Anzeige und Netzwerk"
+
+msgid "Appearance:"
+msgstr "Darstellung:"
+
+msgid "Automatic (B/s, KiB/s, MiB/s…)"
+msgstr "Automatisch (B/s, KiB/s, MiB/s…)"
+
+msgid "Automatic — leave empty"
+msgstr "Automatisch – leer lassen"
+
+msgid "CPU color:"
+msgstr "CPU-Farbe:"
+
+msgid "CPU mode:"
+msgstr "CPU-Modus:"
+
+msgid "CPU usage"
+msgstr "CPU-Auslastung"
+
+msgid "Choose color…"
+msgstr "Farbe wählen …"
+
+msgid "Choose display color"
+msgstr "Anzeigefarbe wählen"
+
+msgid "Download and upload"
+msgstr "Download und Upload"
+
+msgid "Download:"
+msgstr "Download:"
+
+msgid "Leave empty to select a connected Ethernet interface, or Wi-Fi if no Ethernet is connected. Enter an interface name to override; enter all to sum every interface (may count container traffic more than once)."
+msgstr "Leer wählt automatisch einen verbundenen LAN-Anschluss, sonst WLAN. Für eine feste Auswahl den Gerätenamen eintragen; all summiert alle Schnittstellen (kann Container-Verkehr mehrfach zählen)."
+
+msgid "Length along the panel (pixels):"
+msgstr "Länge entlang der Leiste (Pixel):"
+
+msgid "Maximum font size (pt):"
+msgstr "Maximale Schriftgröße (pt):"
+
+msgid "Memory mode:"
+msgstr "RAM-Modus:"
+
+msgid "Memory unit:"
+msgstr "RAM-Einheit:"
+
+msgid "NET"
+msgstr "NET"
+
+msgid "Network color:"
+msgstr "Netzwerk-Farbe:"
+
+msgid "Network interface:"
+msgstr "Netzwerkschnittstelle:"
+
+msgid "Network rates are always displayed in Mbit/s."
+msgstr "Netzwerk: feste Anzeige in Mbit/s (Download und Upload)"
+
+msgid "Network unit:"
+msgstr "Netzwerk-Einheit:"
+
+msgid "Network:"
+msgstr "Netzwerk:"
+
+msgid "No active Ethernet or Wi-Fi connection"
+msgstr "Keine aktive LAN- oder WLAN-Verbindung"
+
+msgid "Panelmonitor · configure the display"
+msgstr "Panelmonitor · Anzeige konfigurieren"
+
+msgid "Percentage"
+msgstr "Prozent"
+
+msgid "RAM color:"
+msgstr "RAM-Farbe:"
+
+msgid "RAM usage"
+msgstr "RAM-Auslastung"
+
+msgid "Rates include local network traffic. This is not an Internet speed test. Missing sensors are shown as —."
+msgstr "Netzwerk zeigt den aktuellen Durchsatz einschließlich LAN-Verkehr, keinen Internet-Speedtest. Bei fehlenden Sensoren erscheint —."
+
+msgid "Show used memory instead of a percentage"
+msgstr "RAM als belegten Speicher statt Prozent anzeigen"
+
+msgid "Show:"
+msgstr "Anzeigen:"
+
+msgid "Total usage (%)"
+msgstr "Gesamtauslastung (%)"
+
+msgid "Total width (pixels):"
+msgstr "Gesamtbreite (Pixel):"
+
+msgid "Update limit (ms):"
+msgstr "Aktualisierung (ms):"
+
+msgid "Upload:"
+msgstr "Upload:"
+
+msgid "Usage bars for CPU and RAM"
+msgstr "Auslastungsbalken für CPU und RAM"
+
+msgid "Used / total"
+msgstr "Belegt / gesamt"
+
+msgid "Used memory only"
+msgstr "Nur belegter Speicher"
+
+msgid "— means that a sensor is not available yet."
+msgstr "— bedeutet: Sensor noch nicht verfügbar."

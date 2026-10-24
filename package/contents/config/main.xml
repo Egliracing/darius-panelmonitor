@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+<kcfgfile name=""/><group name="General">
+<entry name="showCpu" type="Bool"><default>true</default></entry>
+<entry name="showRam" type="Bool"><default>true</default></entry>
+<entry name="showNetwork" type="Bool"><default>true</default></entry>
+<entry name="showBars" type="Bool"><default>true</default></entry>
+<entry name="oneLine" type="Bool"><default>false</default></entry>
+<entry name="fontSize" type="Int"><default>11</default><min>8</min><max>24</max></entry>
+<entry name="width" type="Int"><default>400</default><min>240</min><max>900</max></entry>
+<entry name="updateMs" type="Int"><default>1000</default><min>1000</min><max>10000</max></entry>
+<entry name="interfaceName" type="String"><default></default></entry>
+<entry name="ramInGiB" type="Bool"><default>false</default></entry>
+<entry name="cpuMode" type="Int"><default>0</default><min>0</min><max>1</max></entry>
+<entry name="ramMode" type="Int"><default>0</default><min>0</min><max>2</max></entry>
+<entry name="ramUnit" type="Int"><default>0</default><min>0</min><max>1</max></entry>
+<entry name="netUnit" type="Int"><default>0</default><min>0</min><max>4</max></entry>
+<entry name="cpuColor" type="String"><default>#54c7ec</default></entry>
+<entry name="ramColor" type="String"><default>#b59bff</default></entry>
+<entry name="netColor" type="String"><default>#73d6a0</default></entry>
+</group></kcfg>

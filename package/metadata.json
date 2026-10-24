@@ -1,0 +1,21 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Id": "de.darius.panelmonitor",
+    "Name": "Darius Panelmonitor",
+    "Description": "CPU, memory and network rates at a glance — built for your Plasma panel",
+    "Icon": "utilities-system-monitor",
+    "Version": "1.2.1",
+    "License": "LicenseRef-Darius-Personal-NonCommercial-1.0",
+    "Authors": [
+      {
+        "Name": "Darius Jakpor"
+      }
+    ],
+    "Category": "System Information",
+    "Description[de]": "CPU, RAM und Netzwerk auf einen Blick – für deine Plasma-Kontrollleiste",
+    "Website": "https://github.com/Egliracing/darius-panelmonitor",
+    "BugReportUrl": "https://github.com/Egliracing/darius-panelmonitor/issues"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
